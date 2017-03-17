@@ -1,2 +1,2 @@
 # DataAnalytics
-do understand and study data analysis
+to understand and study data analysis
